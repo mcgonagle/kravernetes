@@ -1,5 +1,11 @@
 ## Kravernetes - Full Contact Kubernetes
 
+---
+
+### Retzev - "Continuous Motion"
+
+---
+
 ### The four pillars of krav maga self-defense are: 
 1. awareness
 2. avoidance
