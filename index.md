@@ -2,7 +2,7 @@
 
 The purpose of *DevSecOps* is to integrate security controls and processes into the DevOps software development cycle, a process which is achieved by promoting the collaboration between security teams, development teams and operations teams.
 
-Kraverenetes is a methodology for *DevSecOps* which focuses on the four pillars of simutaneous attack and defense, which are:
+Kraverenetes is a practical *DevSecOps* methodology which focuses on the four pillars of Krav Maga, which are:
 
 1. awareness
 2. avoidance
@@ -15,7 +15,7 @@ Kraverenetes is a methodology for *DevSecOps* which focuses on the four pillars 
 
 ---
 
-### Simultaneous Attack and Defense
+### Kravernetes Tenents
 1. Be aggressive but smart in your problem solving.
 2. Be vigilant in identifing and addressing challenges.
 3. Be proactive based on your current weaknesses or vulnerabilities; react quickly when you have to.
