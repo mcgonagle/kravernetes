@@ -5,12 +5,21 @@
 2. avoidance
 3. de-escalation and escape
 4. last-resort decisive, simultaneous defense and attack
+
+
 ---
 
+### Simultaneous Attack and Defense
+1. Be aggressive but smart in your problem solving.
+2. Be vigilant in identifing and addressing challenges.
+3. Be proactive based on your current weaknesses or vulnerabilities; react quickly when you have to.
+4. Be tool agnostic.
+5. Invoke precision when executing tasks.
+6. Employ simple and repeatable techniques.
+7. Include situational awareness in all aspects of your practice.
+8. Understand the impact of stress on your planning and response.
 
-
-
-
+---
 
 ### Markdown
 
