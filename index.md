@@ -1,8 +1,16 @@
-## Welcome to GitHub Pages
+## Kravernetes - Full Contact Kubernetes
 
-You can use the [editor on GitHub](https://github.com/mcgonagle/kravernetes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### The four pillars of krav maga self-defense are: 
+1. awareness
+2. avoidance
+3. de-escalation and escape
+4. last-resort decisive, simultaneous defense and attack
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+
+
 
 ### Markdown
 
