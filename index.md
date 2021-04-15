@@ -10,7 +10,7 @@
 1. awareness
 2. avoidance
 3. de-escalation and escape
-4. last-resort decisive, simultaneous defense and attack
+4. last-resort decisive, simultaneous attack and defense
 
 
 ---
