@@ -2,18 +2,16 @@
 
 The purpose of *DevSecOps* is to integrate security controls and processes into the DevOps software development cycle, a process which is achieved by promoting the collaboration between security teams, development teams and operations teams.
 
----
+Kraverenetes is a methodology for *DevSecOps* which focuses on the four pillars of simutaneous attack and defense, which are:
 
-### Retzev - "Continuous Motion"
-
----
-
-### The four pillars of krav maga self-defense are: 
 1. awareness
 2. avoidance
 3. de-escalation and escape
 4. last-resort decisive, simultaneous attack and defense
 
+---
+
+### Retzev - "Continuous Motion"
 
 ---
 
