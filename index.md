@@ -16,6 +16,7 @@ Some of the key focus is instinctive response under stress. To that end, Krav Ma
 
 ---
 
+### DevSecOps
 The purpose of *DevSecOps* is to integrate security controls and processes into the DevOps software development cycle, a process which is achieved by promoting the collaboration between security teams, development teams and operations teams.
 
 Kraverenetes is a practical *DevSecOps* methodology which focuses on the four pillars of Krav Maga, which are:
@@ -25,9 +26,24 @@ Kraverenetes is a practical *DevSecOps* methodology which focuses on the four pi
 3. de-escalation and escape
 4. last-resort decisive, simultaneous attack and defense
 
+--- 
+### Situational Awareness
+Situation awareness has been recognized as a critical, yet often elusive, foundation for successful decision-making across a broad range of situations, many of which involve the protection of human life and property, including law enforcement, aviation, air traffic control, ship navigation, health care, emergency response, military command and control operations, self defense, and offshore oil and nuclear power plant management. Lacking or inadequate situation awareness has been identified as one of the primary factors in accidents attributed to human error.
+
+---
+
+### THREATs
+1. Technical Threats
+2. Health Threats 
+3. Raids/Robberty Threats
+4. Environmental Threats
+5. Terrorism Threats
+
 ---
 
 ### Retzev - "Continuous Motion"
+
+**Retzev is a concept that urges the Krav Maga practitioner to utilize and harness the natural power in movement throughout both defensive and offensive initiatives within a self-defense technique(s).**
 
 ---
 
