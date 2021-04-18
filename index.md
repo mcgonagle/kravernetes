@@ -4,7 +4,7 @@
 
 Krav Maga is a military self-defence and fighting system developed for the Israel Defense Forces (IDF) and Israeli security forces derived from a combination of techniques sourced from Boxing, Wrestling, Judo, Aikido, and Karate. Krav Maga is known for its focus on real-world situations and its extreme efficiency. It was derived from the street-fighting experience of Hungarian-Israeli martial artist Imi Lichtenfeld, who made use of his training as a boxer and wrestler, while defending the Jewish quarter against fascist groups in Bratislava, Czechoslovakia, during the mid-to-late 1930s. In the late 1940s, after his aliyah to Mandatory Palestine, he began to provide lessons on combat training to what was to become the IDF.
 
-** Krav Maga has a philosophy emphasizing aggression, and simultaneous defensive and offensive maneuvers.** 
+**Krav Maga has a philosophy emphasizing aggression, and simultaneous defensive and offensive maneuvers.** 
 
 Some of the key focus is instinctive response under stress. To that end, Krav Maga is an eclectic system that has not sought to replace existing effective techniques, taking what is useful from available systems, for example:
 
