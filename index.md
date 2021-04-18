@@ -8,11 +8,11 @@ Krav Maga is a military self-defence and fighting system developed for the Israe
 
 Some of the key focus is instinctive response under stress. To that end, Krav Maga is an eclectic system that has not sought to replace existing effective techniques, taking what is useful from available systems, for example:
 
-* Strikes – as per karate, and boxing,
-* Take-downs and throws – per judo, aikido and wrestling
-* Ground work – per judo and wrestling
-* Escapes from chokes and holds – per judo, aikido, wrestling
-* Empty-hand weapon defenses – per aikido
+    * Strikes – as per karate, and boxing,
+    * Take-downs and throws – per judo, aikido and wrestling
+    * Ground work – per judo and wrestling
+    * Escapes from chokes and holds – per judo, aikido, wrestling
+    * Empty-hand weapon defenses – per aikido
 
 ---
 
@@ -21,32 +21,32 @@ The purpose of *DevSecOps* is to integrate security controls and processes into 
 
 Kraverenetes is a practical *DevSecOps* methodology which focuses on the four pillars of Krav Maga, which are:
 
-1. awareness
-2. avoidance
-3. de-escalation and escape
-4. last-resort decisive, simultaneous attack and defense
+    1. awareness
+    2. avoidance
+    3. de-escalation and escape
+    4. last-resort decisive, simultaneous attack and defense
 
 --- 
 
 ### Situational Awareness = Mindfullness
 Situation awareness has been recognized as a critical, yet often elusive, foundation for successful decision-making across a broad range of situations, many of which involve the protection of human life and property, including law enforcement, aviation, air traffic control, ship navigation, health care, emergency response, military command and control operations, self defense, and offshore oil and nuclear power plant management. Lacking or inadequate situation awareness has been identified as one of the primary factors in accidents attributed to human error.
 
--6 unaware
--5 semi-aware
--3 aware
--2 cautioius 
--1 alert
-0 prepared
+    -6 unaware
+    -5 semi-aware
+    -3 aware
+    -2 cautioius 
+    -1 alert
+    0 prepared
 
 
 ---
 
 ### THREATs
-1. Technical Threats
-2. Health Threats 
-3. Raids/Robberty Threats
-4. Environmental Threats
-5. Terrorism Threats
+    1. Technical Threats
+    2. Health Threats 
+    3. Raids/Robberty Threats
+    4. Environmental Threats
+    5. Terrorism Threats
 
 ---
 
@@ -71,11 +71,11 @@ Situation awareness has been recognized as a critical, yet often elusive, founda
 ---
 
 ### Kravernetes Tenents
-1. Be aggressive but smart in your problem solving.
-2. Be vigilant in identifing and addressing challenges.
-3. Be proactive based on your current weaknesses or vulnerabilities; react quickly when you have to.
-4. Be tool agnostic.
-5. Invoke precision when executing tasks.
-6. Employ simple and repeatable techniques.
-7. Include situational awareness in all aspects of your practice.
-8. Understand the impact of stress on your planning and response.
+    1. Be aggressive but smart in your problem solving.
+    2. Be vigilant in identifing and addressing challenges.
+    3. Be proactive based on your current weaknesses or vulnerabilities; react quickly when you have to.
+    4. Be tool agnostic.
+    5. Invoke precision when executing tasks.
+    6. Employ simple and repeatable techniques.
+    7. Include situational awareness in all aspects of your practice.
+    8. Understand the impact of stress on your planning and response.
