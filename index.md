@@ -16,6 +16,12 @@ Some of the key focus is instinctive response under stress. To that end, Krav Ma
 
 ---
 
+### Retzev - "Continuous Motion"
+
+**Retzev is a concept that urges the Krav Maga practitioner to utilize and harness the natural power in movement throughout both defensive and offensive initiatives within a self-defense technique(s).**
+
+---
+
 ### DevSecOps
 The purpose of *DevSecOps* is to integrate security controls and processes into the DevOps software development cycle, a process which is achieved by promoting the collaboration between security teams, development teams and operations teams.
 
@@ -47,12 +53,6 @@ Situation awareness has been recognized as a critical, yet often elusive, founda
     3. Raids/Robberty Threats
     4. Environmental Threats
     5. Terrorism Threats
-
----
-
-### Retzev - "Continuous Motion"
-
-**Retzev is a concept that urges the Krav Maga practitioner to utilize and harness the natural power in movement throughout both defensive and offensive initiatives within a self-defense technique(s).**
 
 ---
 
