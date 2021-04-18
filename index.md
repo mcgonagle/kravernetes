@@ -97,6 +97,7 @@ Situation awareness has been recognized as a critical, yet often elusive, founda
          Kubeaudit
 
 ---
+
 ### DEARMAN
     * Describe - Use clear and concrete terms to describe what you want.
     * Express - Let others know how a situation makes you feel by clearly expressing your feelings.
