@@ -79,7 +79,7 @@ Situation awareness has been recognized as a critical, yet often elusive, founda
 
 ---
 
-### De-escalation - So how can we strengthen the Kubernetes security?
+### De-escalation - So how can we strengthen Kubernetes security?
 
     1. By reducing the Kubernetes attack surface:
          Check for vulnerabilities periodically
