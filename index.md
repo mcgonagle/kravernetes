@@ -64,9 +64,23 @@ Situation awareness has been recognized as a critical, yet often elusive, founda
 
 ### So how can we strengthen the Kubernetes security?
 
-    1. By reducing the Kubernetes attack surface
-    2. By utilizing inbuilt Kubernetes platform security features
-    3. By using open source tools for Kubernetes security
+    1. By reducing the Kubernetes attack surface:
+         Check for vulnerabilities periodically
+         Review audit logs
+         Review network policies and pod security policies
+         Review Kubernetes secrets
+    3. By utilizing inbuilt Kubernetes platform security features
+         Authenticiation and Authroization
+         Audit Logging
+         Network Logging
+         Pod Security
+         Secrets Management
+    5. By using open source tools for Kubernetes security
+         TUF
+         Clair
+         Kube-bench
+         Kubesec
+         Kubeaudit
    
 ---
 
