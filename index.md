@@ -95,6 +95,16 @@ Situation awareness has been recognized as a critical, yet often elusive, founda
          Kube-bench
          Kubesec
          Kubeaudit
+
+---
+### DEARMAN
+    * Describe - Use clear and concrete terms to describe what you want.
+    * Express - Let others know how a situation makes you feel by clearly expressing your feelings.
+    * Assert - Don't beat around the bush - say what you need to say.
+    * Reinforce - Reward people who respond well, and reinforce why your desired outcome is positive. 
+    * Mindful - Don't forget the ojbective and interaction it can be easy to get sidetracked into harmful arguements and lose focus.
+    * Appear - Appear confident. Consider your posture, tone, eye contact and body language.
+    * Negotiate - NO can have everything they want out of an interaction all the time. Be open to negotiation.
    
 ---
 
