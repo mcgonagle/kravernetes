@@ -1,6 +1,6 @@
 ## Kravernetes - Full Contact Kubernetes
 
-### Attack and Defense - Kravernetes Tenents
+### Kravernetes Tenents
     1. Be aggressive but smart in your problem solving.
     2. Be vigilant in identifing and addressing challenges.
     3. Be proactive based on your current weaknesses or vulnerabilities; react quickly when you have to.
