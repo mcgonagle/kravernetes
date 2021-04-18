@@ -27,8 +27,17 @@ Kraverenetes is a practical *DevSecOps* methodology which focuses on the four pi
 4. last-resort decisive, simultaneous attack and defense
 
 --- 
-### Situational Awareness
+
+### Situational Awareness = Mindfullness
 Situation awareness has been recognized as a critical, yet often elusive, foundation for successful decision-making across a broad range of situations, many of which involve the protection of human life and property, including law enforcement, aviation, air traffic control, ship navigation, health care, emergency response, military command and control operations, self defense, and offshore oil and nuclear power plant management. Lacking or inadequate situation awareness has been identified as one of the primary factors in accidents attributed to human error.
+
+-6 unaware
+-5 semi-aware
+-3 aware
+-2 cautioius 
+-1 alert
+0 prepared
+
 
 ---
 
