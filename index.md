@@ -104,7 +104,7 @@ Situation awareness has been recognized as a critical, yet often elusive, founda
     * Reinforce - Reward people who respond well, and reinforce why your desired outcome is positive. 
     * Mindful - Don't forget the ojbective and interaction it can be easy to get sidetracked into harmful arguements and lose focus.
     * Appear - Appear confident. Consider your posture, tone, eye contact and body language.
-    * Negotiate - NO can have everything they want out of an interaction all the time. Be open to negotiation.
+    * Negotiate - No one can have everything they want out of an interaction all the time. Be open to negotiation.
    
 ---
 
