@@ -28,6 +28,8 @@ Some of the key focus is instinctive response under stress. To that end, Krav Ma
     * Escapes from chokes and holds – per judo, aikido, wrestling
     * Empty-hand weapon defenses – per aikido
 
+https://share.getcloudapp.com/04uA24k9
+
 ---
 
 ### Retzev - "Continuous Motion"
