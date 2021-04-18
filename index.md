@@ -56,13 +56,13 @@ Situation awareness has been recognized as a critical, yet often elusive, founda
 
 ---
 
-### "Practice, Practice, Practice"
+### Avoidance - "Practice, Practice, Practice"
 
 “Kubernetes only provides the API, Orchestration and Scheduling and resource management. To get a complete application platform you also need a Linux Operating System; a container registry; container networking; container storage, logging, monitoring and method to integrate CI/CD pipelines.” 
 
 ---
 
-### So how can we strengthen the Kubernetes security?
+### De-escalation - So how can we strengthen the Kubernetes security?
 
     1. By reducing the Kubernetes attack surface:
          Check for vulnerabilities periodically
@@ -84,7 +84,7 @@ Situation awareness has been recognized as a critical, yet often elusive, founda
    
 ---
 
-### Kravernetes Tenents
+### Attack and Defense - Kravernetes Tenents
     1. Be aggressive but smart in your problem solving.
     2. Be vigilant in identifing and addressing challenges.
     3. Be proactive based on your current weaknesses or vulnerabilities; react quickly when you have to.
