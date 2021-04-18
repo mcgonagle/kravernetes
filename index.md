@@ -8,11 +8,11 @@ Krav Maga is a military self-defence and fighting system developed for the Israe
 
 Some of the key focus is instinctive response under stress. To that end, Krav Maga is an eclectic system that has not sought to replace existing effective techniques, taking what is useful from available systems, for example:
 
-Strikes – as per karate, and boxing,
-Take-downs and throws – per judo, aikido and wrestling
-Ground work – per judo and wrestling
-Escapes from chokes and holds – per judo, aikido, wrestling
-Empty-hand weapon defenses – per aikido
+* Strikes – as per karate, and boxing,
+* Take-downs and throws – per judo, aikido and wrestling
+* Ground work – per judo and wrestling
+* Escapes from chokes and holds – per judo, aikido, wrestling
+* Empty-hand weapon defenses – per aikido
 
 ---
 
