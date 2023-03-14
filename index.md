@@ -29,7 +29,7 @@ Some of the key focus is instinctive response under stress. To that end, Krav Ma
     * Escapes from chokes and holds – per judo, aikido, wrestling
     * Empty-hand weapon defenses – per aikido
 
-[DevSecOps](https://share.getcloudapp.com/04uA24k9) is an eccelctic system as well.
+[DevSecOps]([https://share.getcloudapp.com/04uA24k9](https://capture.dropbox.com/D2MZoSvqoIO6RyXy)) is an eccelctic system as well.
 
 ---
 
