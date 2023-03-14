@@ -10,10 +10,7 @@ Krav means contact in Hebrew. Full contact k8s is an approach to k8s that focuse
     6. Employ simple and repeatable techniques.
     7. Include situational awareness in all aspects of your practice.
     8. Understand the impact of stress on your planning and response.
-
-
 ---
-
 
 ### History of Krav Maga
 
@@ -35,12 +32,15 @@ Some of the key focus is instinctive response under stress. To that end, Krav Ma
 
 ### Retzev - "Continuous Motion"
 
-**Retzev is a concept that urges the Krav Maga practitioner to utilize and harness the natural power in movement throughout both defensive and offensive initiatives within a self-defense technique(s).**
+Retzev is a concept that urges the Krav Maga practitioner to utilize and harness the natural power in movement throughout both defensive and offensive initiatives within a self-defense technique(s).
 
 ---
 
 ### DevSecOps
-The purpose of *DevSecOps* is to integrate security controls and processes into the DevOps software development cycle, a process which is achieved by promoting the collaboration between security teams, development teams and operations teams.
+@mcgonagle DevSecOps Definition - A Cultural and Technical Focus on Teamwor and the Mission of Secure Software Delivery.
+
+
+> The purpose of *DevSecOps* is to integrate security controls and processes into the DevOps software development cycle, a process which is achieved by promoting the collaboration between security teams, development teams and operations teams.
 
 Kraverenetes is a practical *DevSecOps* methodology which focuses on the four pillars of Krav Maga, which are:
 
