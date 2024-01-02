@@ -10,6 +10,7 @@ Krav means contact in Hebrew. Full contact k8s is an approach to k8s that focuse
     6. Employ simple and repeatable techniques.
     7. Include situational awareness in all aspects of your practice.
     8. Understand the impact of stress on your planning and response.
+    
 ---
 
 ### History of Krav Maga
