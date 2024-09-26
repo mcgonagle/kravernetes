@@ -1,7 +1,7 @@
 ## Kravernetes - Full Contact Kubernetes
 Krav means contact in Hebrew. Full contact k8s is an approach to k8s that focuses on practical real-world skills via the application of Krav Maga self-defense principles.
 
-### Kravernetes Tenents
+### Kravernetes Tenets
     1. Be aggressive but smart in your problem solving.
     2. Be vigilant in identifing and addressing challenges.
     3. Be proactive based on your current weaknesses or vulnerabilities; react quickly when you have to.
