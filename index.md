@@ -3,7 +3,7 @@ Krav means contact in Hebrew. Full contact k8s is an approach to k8s that focuse
 
 ### Kravernetes Tenets
     1. Be aggressive but smart in your problem solving.
-    2. Be vigilant in identifing and addressing challenges.
+    2. Be vigilant in identifying and addressing challenges.
     3. Be proactive based on your current weaknesses or vulnerabilities; react quickly when you have to.
     4. Be tool agnostic.
     5. Invoke precision when executing tasks.
