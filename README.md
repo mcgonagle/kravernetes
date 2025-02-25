@@ -1,2 +1,124 @@
-# kravernetes
+## Kravernetes - Full Contact Kubernetes
 Krav means contact in Hebrew. Full contact k8s is an approach to k8s that focuses on practical real-world skills via the application of Krav Maga self-defense principles.
+
+### Kravernetes Tenets
+    1. Be aggressive but smart in your problem solving.
+    2. Be vigilant in identifying and addressing challenges.
+    3. Be proactive based on your current weaknesses or vulnerabilities; react quickly when you have to.
+    4. Be tool agnostic.
+    5. Invoke precision when executing tasks.
+    6. Employ simple and repeatable techniques.
+    7. Include situational awareness in all aspects of your practice.
+    8. Understand the impact of stress on your planning and response.
+    
+---
+
+### History of Krav Maga
+
+Krav Maga is a military self-defence and fighting system developed for the Israel Defense Forces (IDF) and Israeli security forces derived from a combination of techniques sourced from Boxing, Wrestling, Judo, Aikido, and Karate. Krav Maga is known for its focus on real-world situations and its extreme efficiency. It was derived from the street-fighting experience of Hungarian-Israeli martial artist Imi Lichtenfeld, who made use of his training as a boxer and wrestler, while defending the Jewish quarter against fascist groups in Bratislava, Czechoslovakia, during the mid-to-late 1930s. In the late 1940s, after his aliyah to Mandatory Palestine, he began to provide lessons on combat training to what was to become the IDF.
+
+**Krav Maga has a philosophy emphasizing aggression, and simultaneous defensive and offensive maneuvers.** 
+
+Some of the key focus is instinctive response under stress. To that end, Krav Maga is an eclectic system that has not sought to replace existing effective techniques, taking what is useful from available systems, for example:
+
+    * Strikes – as per karate, and boxing,
+    * Take-downs and throws – per judo, aikido and wrestling
+    * Ground work – per judo and wrestling
+    * Escapes from chokes and holds – per judo, aikido, wrestling
+    * Empty-hand weapon defenses – per aikido
+
+[DevSecOps]([https://share.getcloudapp.com/04uA24k9](https://capture.dropbox.com/D2MZoSvqoIO6RyXy)) is an eccelctic system as well.
+
+---
+
+### Retzev - "Continuous Motion"
+
+Retzev is a concept that urges the Krav Maga practitioner to utilize and harness the natural power in movement throughout both defensive and offensive initiatives within a self-defense technique(s).
+
+---
+
+### DevSecOps
+@mcgonagle DevSecOps Definition - A Cultural and Technical Focus on Teamwor and the Mission of Secure Software Delivery.
+
+
+> The purpose of *DevSecOps* is to integrate security controls and processes into the DevOps software development cycle, a process which is achieved by promoting the collaboration between security teams, development teams and operations teams.
+
+Kraverenetes is a practical *DevSecOps* methodology which focuses on the four pillars of Krav Maga, which are:
+
+    1. awareness
+    2. avoidance
+    3. de-escalation and escape
+    4. last-resort decisive, simultaneous attack and defense
+
+--- 
+
+### Situational Awareness = Mindfullness
+Situation awareness has been recognized as a critical, yet often elusive, foundation for successful decision-making across a broad range of situations, many of which involve the protection of human life and property, including law enforcement, aviation, air traffic control, ship navigation, health care, emergency response, military command and control operations, self defense, and offshore oil and nuclear power plant management. Lacking or inadequate situation awareness has been identified as one of the primary factors in accidents attributed to human error.
+
+    -6 unaware
+    -5 semi-aware
+    -3 aware
+    -2 cautioius 
+    -1 alert
+    0 prepared
+
+
+---
+
+### THREATs
+    1. Technical Threats
+    2. Health Threats 
+    3. Raids/Robberty Threats
+    4. Environmental Threats
+    5. Terrorism Threats
+
+---
+
+### Avoidance - "Practice, Practice, Practice"
+
+“Kubernetes only provides the API, Orchestration and Scheduling and resource management. To get a complete application platform you also need a Linux Operating System; a container registry; container networking; container storage, logging, monitoring and method to integrate CI/CD pipelines.” 
+
+---
+
+### De-escalation - So how can we strengthen Kubernetes security?
+
+    1. By reducing the Kubernetes attack surface:
+         Check for vulnerabilities periodically
+         Review audit logs
+         Review network policies and pod security policies
+         Review Kubernetes secrets
+    3. By utilizing inbuilt Kubernetes platform security features:
+         Authenticiation and Authorization
+         Audit Logging
+         Network Logging
+         Pod Security
+         Secrets Management
+    5. By using open source tools for Kubernetes security:
+         TUF
+         Clair
+         Kube-bench
+         Kubesec
+         Kubeaudit
+
+---
+
+### DEARMAN
+    * Describe - Use clear and concrete terms to describe what you want.
+    * Express - Let others know how a situation makes you feel by clearly expressing your feelings.
+    * Assert - Don't beat around the bush - say what you need to say.
+    * Reinforce - Reward people who respond well, and reinforce why your desired outcome is positive. 
+    * Mindful - Don't forget the ojbective and interaction it can be easy to get sidetracked into harmful arguements and lose focus.
+    * Appear - Appear confident. Consider your posture, tone, eye contact and body language.
+    * Negotiate - No one can have everything they want out of an interaction all the time. Be open to negotiation.
+   
+---
+
+### Attack and Defense - Kravernetes Tenents
+    1. Be aggressive but smart in your problem solving.
+    2. Be vigilant in identifing and addressing challenges.
+    3. Be proactive based on your current weaknesses or vulnerabilities; react quickly when you have to.
+    4. Be tool agnostic.
+    5. Invoke precision when executing tasks.
+    6. Employ simple and repeatable techniques.
+    7. Include situational awareness in all aspects of your practice.
+    8. Understand the impact of stress on your planning and response.
