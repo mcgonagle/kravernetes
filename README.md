@@ -122,3 +122,5 @@ Situation awareness has been recognized as a critical, yet often elusive, founda
     6. Employ simple and repeatable techniques.
     7. Include situational awareness in all aspects of your practice.
     8. Understand the impact of stress on your planning and response.
+
+    
