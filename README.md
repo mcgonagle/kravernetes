@@ -1,7 +1,49 @@
 ## Kravernetes - Full Contact Kubernetes
 Krav means contact in Hebrew. Full contact k8s is an approach to k8s that focuses on practical real-world skills via the application of Krav Maga self-defense principles.
 
-### Kravernetes Tenets
+---
+
+### History of Krav Maga
+
+Krav Maga is a military self-defence and fighting system developed for the Israel Defense Forces (IDF) and Israeli security forces derived from a combination of techniques sourced from Boxing, Wrestling, Judo, Aikido, and Karate. Krav Maga is known for its focus on real-world situations and its extreme efficiency. It was derived from the street-fighting experience of Hungarian-Israeli martial artist Imi Lichtenfeld, who made use of his training as a boxer and wrestler, while defending the Jewish quarter against fascist groups in Bratislava, Czechoslovakia, during the mid-to-late 1930s. In the late 1940s, after his aliyah to Mandatory Palestine, he began to provide lessons on combat training to what was to become the IDF.
+
+**Krav Maga has a philosophy emphasizing aggression, and simultaneous defensive and offensive maneuvers.** 
+
+Some of the key focus is instinctive response under stress. To that end, Krav Maga is an eclectic system that has not sought to replace existing effective techniques, taking what is useful from available systems, for example:
+
+    * Strikes – as per karate, and boxing,
+    * Take-downs and throws – per judo, aikido and wrestling
+    * Ground work – per judo and wrestling
+    * Escapes from chokes and holds – per judo, aikido, wrestling
+    * Empty-hand weapon defenses – per aikido
+
+[DevSecOps]([https://share.getcloudapp.com/04uA24k9](https://capture.dropbox.com/D2MZoSvqoIO6RyXy)) is an eccelctic system as well.
+
+### DevSecOps
+@mcgonagle DevSecOps Definition - Shifting Security Left through a Technical and Cultural Focus on Teamwork and the Secure Delivery of Software Mission.  
+
+
+> The purpose of *DevSecOps* is to integrate security controls and processes into the DevOps software development cycle, a process which is achieved by promoting the collaboration between security teams, development teams and operations teams.
+
+Kraverenetes is a practical *DevSecOps* methodology which focuses on the four pillars of Krav Maga, which are:
+
+    1. awareness
+    2. avoidance
+    3. de-escalation and escape
+    4. last-resort decisive, simultaneous attack and defense
+
+
+---
+
+### Attack and Defense - Kravernetes Tenents
+    1. Be aggressive but smart in your problem solving.
+    2. Be vigilant in identifing and addressing challenges.
+    3. Be proactive based on your current weaknesses or vulnerabilities; react quickly when you have to.
+    4. Be tool agnostic.
+    5. Invoke precision when executing tasks.
+    6. Employ simple and repeatable techniques.
+    7. Include situational awareness in all aspects of your practice.
+    8. Understand the impact of stress on your planning and response.
 
 **1. Be aggressive but smart in your problem solving**
 - Use `kubectl delete --force --grace-period=0` when pods are stuck, but understand the consequences
@@ -43,23 +85,7 @@ Krav means contact in Hebrew. Full contact k8s is an approach to k8s that focuse
 - Use feature flags to reduce deployment stress
 - Implement gradual rollouts and blue-green deployments
     
----
 
-### History of Krav Maga
-
-Krav Maga is a military self-defence and fighting system developed for the Israel Defense Forces (IDF) and Israeli security forces derived from a combination of techniques sourced from Boxing, Wrestling, Judo, Aikido, and Karate. Krav Maga is known for its focus on real-world situations and its extreme efficiency. It was derived from the street-fighting experience of Hungarian-Israeli martial artist Imi Lichtenfeld, who made use of his training as a boxer and wrestler, while defending the Jewish quarter against fascist groups in Bratislava, Czechoslovakia, during the mid-to-late 1930s. In the late 1940s, after his aliyah to Mandatory Palestine, he began to provide lessons on combat training to what was to become the IDF.
-
-**Krav Maga has a philosophy emphasizing aggression, and simultaneous defensive and offensive maneuvers.** 
-
-Some of the key focus is instinctive response under stress. To that end, Krav Maga is an eclectic system that has not sought to replace existing effective techniques, taking what is useful from available systems, for example:
-
-    * Strikes – as per karate, and boxing,
-    * Take-downs and throws – per judo, aikido and wrestling
-    * Ground work – per judo and wrestling
-    * Escapes from chokes and holds – per judo, aikido, wrestling
-    * Empty-hand weapon defenses – per aikido
-
-[DevSecOps]([https://share.getcloudapp.com/04uA24k9](https://capture.dropbox.com/D2MZoSvqoIO6RyXy)) is an eccelctic system as well.
 
 ---
 
@@ -99,21 +125,6 @@ Git commit → CI/CD pipeline → Deployment → Health checks → Prometheus me
 ```
 
 The key is never stopping - each Kubernetes action should trigger the next logical step in an unbroken chain of defensive and offensive operations.
-
----
-
-### DevSecOps
-@mcgonagle DevSecOps Definition - A Cultural and Technical Focus on Teamwor and the Mission of Secure Software Delivery.
-
-
-> The purpose of *DevSecOps* is to integrate security controls and processes into the DevOps software development cycle, a process which is achieved by promoting the collaboration between security teams, development teams and operations teams.
-
-Kraverenetes is a practical *DevSecOps* methodology which focuses on the four pillars of Krav Maga, which are:
-
-    1. awareness
-    2. avoidance
-    3. de-escalation and escape
-    4. last-resort decisive, simultaneous attack and defense
 
 --- 
 
@@ -234,27 +245,5 @@ Situation awareness in Kubernetes is the foundation for successful cluster opera
          Kubesec
          Kubeaudit
 
----
-
-### DEARMAN
-    * Describe - Use clear and concrete terms to describe what you want.
-    * Express - Let others know how a situation makes you feel by clearly expressing your feelings.
-    * Assert - Don't beat around the bush - say what you need to say.
-    * Reinforce - Reward people who respond well, and reinforce why your desired outcome is positive. 
-    * Mindful - Don't forget the ojbective and interaction it can be easy to get sidetracked into harmful arguements and lose focus.
-    * Appear - Appear confident. Consider your posture, tone, eye contact and body language.
-    * Negotiate - No one can have everything they want out of an interaction all the time. Be open to negotiation.
-   
----
-
-### Attack and Defense - Kravernetes Tenents
-    1. Be aggressive but smart in your problem solving.
-    2. Be vigilant in identifing and addressing challenges.
-    3. Be proactive based on your current weaknesses or vulnerabilities; react quickly when you have to.
-    4. Be tool agnostic.
-    5. Invoke precision when executing tasks.
-    6. Employ simple and repeatable techniques.
-    7. Include situational awareness in all aspects of your practice.
-    8. Understand the impact of stress on your planning and response.
 
     
